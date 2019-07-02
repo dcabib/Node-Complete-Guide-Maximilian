@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_URI":  "mongodb://daniel:password123@ds245927.mlab.com:45927/shop",
+        "STRIPE_KEY": "sk_test_82fuYm6fg7v0Sz13GepSl4P700CyvndcWR"
+    }
+}
